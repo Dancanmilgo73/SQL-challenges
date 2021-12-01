@@ -16,4 +16,5 @@ HAVING Clause is used to filter record from the groups based on the specified co
 7. WHERE Clause cannot contain aggregate function. HAVING Clause can contain aggregate function
 
 -----------------------------------The need for group functions in sql --------------------------
+
 Group functions produce results based on a group or set of rows. For example, with group functions you can get counts, sums/totals, averages, maximums, minimums, etc.
